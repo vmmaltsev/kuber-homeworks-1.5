@@ -12,6 +12,13 @@
 
 Ответ:
 
+Манифиесты Deployment и Service в директории https://github.com/vmmaltsev/kuber-homeworks-1.5/tree/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201
+
+Скриншоты:
+
+![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_118.png)
+
+![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_119.png)
 
 ---
 
@@ -24,3 +31,10 @@
 
 Ответ:
 
+Манифиесты в директории https://github.com/vmmaltsev/kuber-homeworks-1.5/tree/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202
+
+Скриншоты:
+
+![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_120.png)
+
+![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_121.png)
