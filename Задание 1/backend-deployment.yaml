@@ -1,0 +1,24 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: backend-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: backend
+  template:
+    metadata:
+      labels:
+        app: backend
+    spec:
+      containers:
+      - name: multitool
+        image: praqma/network-multitool
+        volumeMounts:
+        - name: api-html-volume
+          mountPath: /usr/share/nginx/html/api
+      volumes:
+      - name: api-html-volume
+        configMap:
+          name: backend-html
