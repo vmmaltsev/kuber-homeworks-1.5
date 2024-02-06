@@ -35,6 +35,6 @@
 
 Скриншоты:
 
-![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_120.png)
-
 ![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_121.png)
+
+![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_122.png)
